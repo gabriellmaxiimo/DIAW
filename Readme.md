@@ -43,5 +43,4 @@ O projeto possui um `Controller` configurado com os seguintes endpoints:
 5. Acesse os endpoints pelo seu navegador, Postman ou Insomnia.
 
 ## 👨‍💻 Autores
-Gabriel Mota Valério.
-Gabriel Máximo de Castro.
+Gabriel Mota Valério e Gabriel Máximo de Castro.
