@@ -25,4 +25,5 @@ public class Service {
     public String consultarTemperatura(String cidade) {
         return consultarURL(BASE_URL + cidade + "&count=1&language=pt&format=json");
     }
+
 }
